@@ -1,3 +1,6 @@
+# Prerequisites
+*.d
+
 # Compiled Object files
 *.slo
 *.lo
@@ -27,30 +30,3 @@
 *.exe
 *.out
 *.app
-*.i*
-
-# OS or Editor files
-ehthumbs.db
-Thumbs.db
-.DS_Store
-Desktop.ini
-.vscode/
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-.ipch/
-[Bb]in/
-[Oo]bj/
-[Dd]ebug*/
-[Rr]elease*/
-[Aa][Pp][Pp][Dd][Aa][Tt][Aa]/
-*.sdf
-*.opensdf
-
-# CMake build directory
-CMakeFiles/
-CMakeCache.txt
-CMakeScripts/
-Testing/
-CTestTestfile.cmake
