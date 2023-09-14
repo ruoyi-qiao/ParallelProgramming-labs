@@ -39,5 +39,3 @@ eg.
 * `producer.c`和`producer.h`：实现生产者线程的代码。
 * `consumer.c`和`consumer.h`：实现消费者线程的代码。
 * `queue.c`和`queue.h`：实现共享队列的实现，包含队列的初始化、入队、出队等。
-
-10215101483 乔若奕
